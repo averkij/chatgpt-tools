@@ -7,41 +7,41 @@ ChatGPT API mass query script
 3. Generate
 
 ```
-A: write a hokku about brave hare
+Q: write a hokku about brave hare
 
-Q: Brave hare,
+A: Brave hare,
 Leaps through fields with such care,
 Fearless and bold.
 
 -----------------------
 
-A: write a hokku about brave elephant
+Q: write a hokku about brave elephant
 
-Q: Brave elephant,
+A: Brave elephant,
 Majestic and strong, he went,
 Defying all odds.
 
 -----------------------
 
-A: write a hokku about brave elephant
+Q: write a hokku about brave elephant
 
-Q: Brave elephant,
+A: Brave elephant,
 Through jungles he walks with grace,
 His might is untold.
 
 -----------------------
 
-A: write a hokku about dumb fox
+Q: write a hokku about dumb fox
 
-Q: Dumb fox, so sly,
+A: Dumb fox, so sly,
 Yet his cunning fails him by,
 Foolishness takes hold.
 
 -----------------------
 
-A: write a hokku about brave cat
+Q: write a hokku about brave cat
 
-Q: Brave cat, with grace,
+A: Brave cat, with grace,
 Pounces on prey with such pace,
 Fearless hunter bold.
 
