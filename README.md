@@ -1,8 +1,8 @@
 # chatgpt-tools
 
-ChatGPT API mass query script
+## ChatGPT API mass query script
 
-Upd. 2 Feb. Script is not workong for now. It's, probably, Andrej Karpathy has came to OpenAI and fixed the bug.
+_Upd. 2 Feb. Script is not workong for now. It's, probably, Andrej Karpathy has came to OpenAI and fixed the bug._
 
 1. `pip install revChatGPT`
 2. Get API key on https://platform.openai.com/account/api-keys
